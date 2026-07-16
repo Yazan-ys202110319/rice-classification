@@ -1,6 +1,6 @@
 # Rice Classification
 
-This project is a notebook-based binary classification workflow that predicts the class of rice grains from their shape and texture measurements. It is a learning project for understanding PyTorch basics, including dataset handling, model building, training, and evaluation. The model is implemented in PyTorch and trained on the dataset in `Data/riceClassification.csv`.
+This project is a notebook-based binary classification workflow that predicts the class of rice grains from their shape and texture measurements. It is a learning project for understanding PyTorch basics, including dataset handling, model building, training, and evaluation. The model is implemented in PyTorch and trained on the dataset [Rice type classification](https://www.kaggle.com/datasets/mssmartypants/rice-type-classification) from Kaggle. 
 
 ## Overview
 
