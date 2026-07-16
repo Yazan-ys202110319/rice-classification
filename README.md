@@ -1,6 +1,6 @@
 # Rice Classification
 
-This project is a notebook-based binary classification workflow that predicts the class of rice grains from their shape and texture measurements. The model is implemented in PyTorch and trained on the dataset in `Data/riceClassification.csv`.
+This project is a notebook-based binary classification workflow that predicts the class of rice grains from their shape and texture measurements. It is a learning project for understanding PyTorch basics, including dataset handling, model building, training, and evaluation. The model is implemented in PyTorch and trained on the dataset in `Data/riceClassification.csv`.
 
 ## Overview
 
@@ -57,11 +57,6 @@ Install the dependencies listed in `requirements.txt` before running the noteboo
 3. Open `main.ipynb` in Jupyter Notebook, JupyterLab, or VS Code.
 4. Run the cells from top to bottom.
 
-## Project Structure
-
-- `main.ipynb` - notebook with preprocessing, training, evaluation, and inference
-- `Data/riceClassification.csv` - dataset used for training and evaluation
-- `requirements.txt` - Python dependencies for the project
 
 ## Notes
 
